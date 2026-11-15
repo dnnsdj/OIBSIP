@@ -16,5 +16,7 @@ Fetches current weather from Open-Meteo for a city or postal code.
    python weather_app.py
    ```
 
-Enter a city name or postal code when prompted. Temperatures are displayed in
-Celsius and wind speed in meters per second. No API key is required.
+Enter a city name or US ZIP code when prompted. The app displays the current
+temperature in Celsius and Fahrenheit, humidity, conditions, and wind speed.
+Open-Meteo provides weather data, and Zippopotam.us resolves US ZIP codes. No
+API key is required.
